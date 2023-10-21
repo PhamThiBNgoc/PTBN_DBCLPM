@@ -1,0 +1,1 @@
+sửa c2 thành d2 rồi push lên nhánh master
