@@ -1,5 +1,3 @@
-
 Sửa c1 thành file b1 trên nhánh master
-
 Sửa c1 thành file b1 trên nhánh beta
 
